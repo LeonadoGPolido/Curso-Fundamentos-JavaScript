@@ -16,4 +16,4 @@ const numeroString = "456";
 
 //String(numero) => Converto o dado numero em string;
 
-console.log(numero + Number(numeroString));
+console.log(numero + Number(numeroString)); //Realiza a soma dos dois números = 912.
