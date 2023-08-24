@@ -41,3 +41,5 @@ if (forma === "quadrado"){
 } else{
     area = (altura*comprimento)/2
 }
+
+//Não há como ser por o const em "area", já que ela é passível de alteração, o que o const não permite.
